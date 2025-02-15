@@ -68,7 +68,7 @@
     .lista-carrossel::after {
         position: absolute;
         content: '';
-        background: linear-gradient(to right, rgba(196, 196, 196, 0), rgba(255, 255, 255, 0.9cd5));
+        background: linear-gradient-(to right, rgba(196, 196, 196, 0), rgba(255, 255, 255, 0.9));
         width: 2rem;
         height: 100%;
         top: 0;
