@@ -6,7 +6,7 @@
     list-style: none;
 }
 
-@media (max-width: 414px) {
+@media (max-width: 412px) {
     header {
         display: flex;
         align-items: center;
